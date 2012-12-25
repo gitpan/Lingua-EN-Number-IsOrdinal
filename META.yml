@@ -1,0 +1,34 @@
+---
+abstract: 'detect if English number is ordinal or cardinal'
+author:
+  - 'Rafael Kitover <rkitover@cpan.org>'
+build_requires:
+  File::Find: 0
+  File::Temp: 0
+  Test::Fatal: 0
+  Test::More: 0
+  Try::Tiny: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Lingua-EN-Number-IsOrdinal
+no_index:
+  directory:
+    - t
+requires:
+  Exporter: 0
+  Lingua::EN::FindNumber: 0
+  strict: 0
+  warnings: 0
+resources:
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Lingua-EN-Number-IsOrdinal
+  homepage: http://metacpan.org/release/Lingua-EN-Number-IsOrdinal
+  license: http://dev.perl.org/licenses/
+  repository: git://github.com/avar/lingua-en-number-isordinal.git
+version: 0.01
+x_authority: cpan:AVAR
