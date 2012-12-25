@@ -3,7 +3,7 @@ BEGIN {
   $Lingua::EN::Number::IsOrdinal::AUTHORITY = 'cpan:AVAR';
 }
 {
-  $Lingua::EN::Number::IsOrdinal::VERSION = '0.01';
+  $Lingua::EN::Number::IsOrdinal::VERSION = '0.02';
 }
 
 use strict;

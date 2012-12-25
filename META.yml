@@ -30,5 +30,5 @@ resources:
   homepage: http://metacpan.org/release/Lingua-EN-Number-IsOrdinal
   license: http://dev.perl.org/licenses/
   repository: git://github.com/avar/lingua-en-number-isordinal.git
-version: 0.01
+version: 0.02
 x_authority: cpan:AVAR
