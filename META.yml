@@ -29,6 +29,6 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Lingua-EN-Number-IsOrdinal
   homepage: http://metacpan.org/release/Lingua-EN-Number-IsOrdinal
   license: http://dev.perl.org/licenses/
-  repository: git://github.com/avar/lingua-en-number-isordinal.git
-version: 0.02
+  repository: git://github.com/rkitover/lingua-en-number-isordinal.git
+version: 0.03
 x_authority: cpan:AVAR
