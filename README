@@ -33,6 +33,17 @@ FUNCTIONS
 
     This function can be optionally imported.
 
+METHODS
+  _is_ordinal
+    Method version of "is_ordinal", this is where the function is actually
+    implemented. Can be overloaded in a subclass.
+
+  _is_number
+    Returns 1 if the passed in string is a word-number as detected by
+    Lingua::EN::FindNumber or is a cardinal or ordinal number made of digits
+    and (for ordinal numbers) a suffix. Otherwise returns "undef". Can be
+    overloaded in a subclass.
+
 SEE ALSO
     *   Lingua::EN::FindNumber
 
